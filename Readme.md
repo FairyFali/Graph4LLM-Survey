@@ -2,9 +2,21 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![](https://img.shields.io/badge/PRs-Welcome-red)
 ## Graphs for LLMs: A Survey of Graph-Assisted Large Language Models
 This repo includes the papers discussed in our comprehensive survey paper on small language models.    
-:book: Read the full paper here: [Paper Link]
-## Overview of SLMs
-![Overview of Small Language Models](images/overview_structure.png)
+
+## Reference
+If our survey is useful for your research, please kindly cite our [survey paper in this link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177162088.88045561):
+```
+@article{luo2026graphs,
+  title={Graphs for LLMs: A Survey of Graph-Assisted Large Language Models},
+  author={Luo, Haitong and Wang, Fali and Zhang, Weiyao and Zhang, Xianren and Zhang, Zhiwei and Zhao, Tianxiang and Lin, Minhua and Zhang, Jiahao and Liu, Hui and Tang, Xianfeng and others},
+  journal={Authorea Preprints},
+  publisher={Authorea}
+}
+```
+
+
+## Overview of Graph-Assisted LLMs
+![Overview of graph_assisted_llms](images/overview_structure.png)
 ## Graph-Assisted LLMs Paper List
 ### Parametric Knowledge Augmentation
 #### Knowledge Injection
